@@ -6,7 +6,7 @@
 5- Identificar tecnologias  
   
 
-## Vulnerabilidades
+### Vulnerabilidades
 
 1- Fingerprint de la aplicación (versiones, cms, frameworks, lenguajes)  
 2- Información contenida en el robots  
@@ -24,12 +24,12 @@
 14- Puertos abiertos  
   
 
-## Pasos
+### Pasos
 
 1-Utilizar fuentes de información publica para obtener información sobre la aplicación:
->a. Google
->b. Shodan
->Netcraf
+>1. Google
+>2. Shodan
+>3.Netcraf
 
 2- Consultar robots  
 3- Explorar el contenido publico y privado de la aplicacion(spider)  
