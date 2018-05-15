@@ -12,15 +12,15 @@
 2- Información contenida en el robots  
 3- Enumeración de aplicaciones alojadas en el servidor  
 4- Comentarios encontrados en el código 
-5- Gestión de errores   
-6- Enumeracion de directorios 
-7- Directory Listing   
-8- Metadatos en los documentos   
-9- Información en fuentes públicas   
-10- Información extraida del envio de un correo falso   
-11- Identificacion de WSLD   
-12- Vulnerabilidades públicas   
-13- Debilidades criptográficas   
+5- Gestión de errores  
+6- Enumeracion de directorios  
+7- Directory Listing  
+8- Metadatos en los documentos  
+9- Información en fuentes públicas  
+10- Información extraida del envio de un correo falso  
+11- Identificacion de WSLD  
+12- Vulnerabilidades públicas  
+13- Debilidades criptográficas  
 14- Puertos abiertos
   
 
