@@ -11,7 +11,7 @@
 1- Fingerprint de la aplicación (versiones, cms, frameworks, lenguajes)  
 2- Información contenida en el robots  
 3- Enumeración de aplicaciones alojadas en el servidor  
-4- Comentarios encontrados en el código 
+4- Comentarios encontrados en el código  
 5- Gestión de errores  
 6- Enumeracion de directorios  
 7- Directory Listing  
