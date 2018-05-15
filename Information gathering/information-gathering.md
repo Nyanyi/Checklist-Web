@@ -33,15 +33,15 @@
 3. Netcraf
 
 2- Consultar robots  
-3- Explorar el contenido público y privado de la aplicacion (spider)  
+3- Explorar el contenido público y privado de la aplicacion (spider)  
 4- Descubrir contenido por defecto  
 5- Descubirir contenido oculto  
-6- Identificar funciones específicas  
-7- Identificar los parámetros  
+6- Identificar funciones específicas  
+7- Identificar los parámetros  
 8- Identificar links (http)  
 9- Identificar errores no controlados  
 10- Identificar comentarios  
-11- Analizar cabeceras e identificar tecnologías  
+11- Analizar cabeceras e identificar tecnologías  
 12- Metadatos  
 13- Test SSL  
 14- Test nmap  
