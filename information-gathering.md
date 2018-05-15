@@ -1,12 +1,13 @@
 ## Objetivo
-1-Conocer la aplicación - Mapear la aplicación  
-2-Obtención de información - Información publica  
-3- Identificar funcionalilades  
-4- Identificar puntos de entrada de datos  
-5- Identificar tecnologias  
+1-Conocer la aplicación
+2-Mapear la aplicación  
+3-Obtención de información. Uso de Información publica  
+4- Identificar funcionalilades  
+5- Identificar puntos de entrada de datos  
+6- Identificar tecnologias  
   
 
-## Vulnerabilidades
+### Vulnerabilidades
 
 1- Fingerprint de la aplicación (versiones, cms, frameworks, lenguajes)  
 2- Información contenida en el robots  
@@ -24,12 +25,13 @@
 14- Puertos abiertos  
   
 
-## Pasos
+### Pasos
 
 1-Utilizar fuentes de información publica para obtener información sobre la aplicación:
->a. Google
->b. Shodan
->Netcraf
+
+>1. Google
+>2. Shodan
+>3. Netcraf
 
 2- Consultar robots  
 3- Explorar el contenido publico y privado de la aplicacion(spider)  
