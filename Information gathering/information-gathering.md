@@ -28,9 +28,9 @@
 
 1-Utilizar fuentes de información pública para obtener información sobre la aplicación:
 
->1. Google
->2. Shodan
->3. Netcraf
+1. Google
+2. Shodan
+3. Netcraf
 
 2- Consultar robots  
 3- Explorar el contenido público y privado de la aplicacion (spider)  
