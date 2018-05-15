@@ -7,7 +7,7 @@
 6- Identificar tecnologias  
   
 
-## Vulnerabilidades
+### Vulnerabilidades
 
 1- Fingerprint de la aplicación (versiones, cms, frameworks, lenguajes)  
 2- Información contenida en el robots  
@@ -25,7 +25,7 @@
 14- Puertos abiertos  
   
 
-## Pasos
+### Pasos
 
 1-Utilizar fuentes de información publica para obtener información sobre la aplicación:
 
