@@ -1,4 +1,4 @@
-## Objetivo
+## Objetivos
 1-Conocer la aplicación - Mapear la aplicación  
 2-Obtención de información - Información publica  
 3- Identificar funcionalidades  
